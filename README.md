@@ -45,7 +45,7 @@ npm install
 
 - Start the application
   ```bash
-      npm run project
+  npm run project
   ```
 - Open your browser and navigate to http://localhost:3000.
 - Play the Wordle game by guessing the scrambled word.
